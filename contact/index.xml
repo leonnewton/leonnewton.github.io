@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts | Yuan Luo</title>
+    <link>https://leonnewton.github.io/contact/</link>
+      <atom:link href="https://leonnewton.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contacts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2019 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://leonnewton.github.io/img/icon-192.png</url>
+      <title>Contacts</title>
+      <link>https://leonnewton.github.io/contact/</link>
+    </image>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://leonnewton.github.io/contact/contact2/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 -0400</pubDate>
+      <guid>https://leonnewton.github.io/contact/contact2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Email : leonnewton@whu.edu.cn&lt;/li&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/leonnewton&#34; target=&#34;_blank&#34;&gt;https://github.com/leonnewton&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
