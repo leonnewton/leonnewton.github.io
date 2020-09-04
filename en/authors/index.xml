@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Yuan Luo</title>
+    <link>https://leonnewton.github.io/en/authors/</link>
+      <atom:link href="https://leonnewton.github.io/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Yuan © 2020</copyright><lastBuildDate>Fri, 04 Sep 2020 11:26:44 +0800</lastBuildDate>
+    <image>
+      <url>https://leonnewton.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://leonnewton.github.io/en/authors/</link>
+    </image>
+    
+    <item>
+      <title>Danfeng Yao</title>
+      <link>https://leonnewton.github.io/en/authors/danfeng-yao/</link>
+      <pubDate>Fri, 04 Sep 2020 11:26:44 +0800</pubDate>
+      <guid>https://leonnewton.github.io/en/authors/danfeng-yao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guojun Peng</title>
+      <link>https://leonnewton.github.io/en/authors/guojun-peng/</link>
+      <pubDate>Fri, 04 Sep 2020 11:26:44 +0800</pubDate>
+      <guid>https://leonnewton.github.io/en/authors/guojun-peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongxin Hu</title>
+      <link>https://leonnewton.github.io/en/authors/hongxin-hu/</link>
+      <pubDate>Fri, 04 Sep 2020 11:26:44 +0800</pubDate>
+      <guid>https://leonnewton.github.io/en/authors/hongxin-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long Cheng</title>
+      <link>https://leonnewton.github.io/en/authors/long-cheng/</link>
+      <pubDate>Fri, 04 Sep 2020 11:26:44 +0800</pubDate>
+      <guid>https://leonnewton.github.io/en/authors/long-cheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuan Luo</title>
+      <link>https://leonnewton.github.io/en/authors/yuan-luo/</link>
+      <pubDate>Fri, 04 Sep 2020 11:26:44 +0800</pubDate>
+      <guid>https://leonnewton.github.io/en/authors/yuan-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://leonnewton.github.io/en/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leonnewton.github.io/en/authors/admin/</guid>
+      <description>&lt;p&gt;I am a fourth-year Ph.D. student in the School of Cyber Science and Engineering at Wuhan University. My advisor is Prof. Guojun Peng. During Sep. 2018 to Dec. 2019, I worked as a visiting student under the supervision of Prof. Daphne Yao at Virginia Tech. Also, I am fortunate to work with Prof. Long Cheng at Clemson University.&lt;/p&gt;
+&lt;p&gt;My research mainly focuses on Cyber-physical system security, IoT security (e.g., smart home), and Android application security.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Yuan Luo</title>
+    <link>https://leonnewton.github.io/en/publication_types/</link>
+      <atom:link href="https://leonnewton.github.io/en/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Yuan © 2020</copyright><lastBuildDate>Fri, 04 Sep 2020 11:26:44 +0800</lastBuildDate>
+    <image>
+      <url>https://leonnewton.github.io/img/icon-192.png</url>
+      <title>Publication_types</title>
+      <link>https://leonnewton.github.io/en/publication_types/</link>
+    </image>
+    
+    <item>
+      <title>2</title>
+      <link>https://leonnewton.github.io/en/publication_types/2/</link>
+      <pubDate>Fri, 04 Sep 2020 11:26:44 +0800</pubDate>
+      <guid>https://leonnewton.github.io/en/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
