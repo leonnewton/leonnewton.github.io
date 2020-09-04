@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Yuan Luo</title>
+    <title>Authors | 罗元</title>
     <link>https://leonnewton.github.io/authors/</link>
       <atom:link href="https://leonnewton.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>Yuan © 2020</copyright><lastBuildDate>Fri, 04 Sep 2020 11:26:44 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>Yuan © 2020</copyright><lastBuildDate>Fri, 04 Sep 2020 14:28:28 +0800</lastBuildDate>
     <image>
       <url>https://leonnewton.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,50 @@
     </image>
     
     <item>
-      <title>Danfeng Yao</title>
-      <link>https://leonnewton.github.io/authors/danfeng-yao/</link>
-      <pubDate>Fri, 04 Sep 2020 11:26:44 +0800</pubDate>
-      <guid>https://leonnewton.github.io/authors/danfeng-yao/</guid>
+      <title>Danfeng Daphne Yao</title>
+      <link>https://leonnewton.github.io/authors/danfeng-daphne-yao/</link>
+      <pubDate>Fri, 04 Sep 2020 14:28:28 +0800</pubDate>
+      <guid>https://leonnewton.github.io/authors/danfeng-daphne-yao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guojun Peng</title>
       <link>https://leonnewton.github.io/authors/guojun-peng/</link>
-      <pubDate>Fri, 04 Sep 2020 11:26:44 +0800</pubDate>
+      <pubDate>Fri, 04 Sep 2020 14:28:28 +0800</pubDate>
       <guid>https://leonnewton.github.io/authors/guojun-peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long Cheng</title>
+      <link>https://leonnewton.github.io/authors/long-cheng/</link>
+      <pubDate>Fri, 04 Sep 2020 14:28:28 +0800</pubDate>
+      <guid>https://leonnewton.github.io/authors/long-cheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ya Xiao</title>
+      <link>https://leonnewton.github.io/authors/ya-xiao/</link>
+      <pubDate>Fri, 04 Sep 2020 14:28:28 +0800</pubDate>
+      <guid>https://leonnewton.github.io/authors/ya-xiao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuan Luo</title>
+      <link>https://leonnewton.github.io/authors/yuan-luo/</link>
+      <pubDate>Fri, 04 Sep 2020 14:28:28 +0800</pubDate>
+      <guid>https://leonnewton.github.io/authors/yuan-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danfeng Yao</title>
+      <link>https://leonnewton.github.io/authors/danfeng-yao/</link>
+      <pubDate>Fri, 04 Sep 2020 11:26:44 +0800</pubDate>
+      <guid>https://leonnewton.github.io/authors/danfeng-yao/</guid>
       <description></description>
     </item>
     
@@ -37,28 +69,12 @@
     </item>
     
     <item>
-      <title>Long Cheng</title>
-      <link>https://leonnewton.github.io/authors/long-cheng/</link>
-      <pubDate>Fri, 04 Sep 2020 11:26:44 +0800</pubDate>
-      <guid>https://leonnewton.github.io/authors/long-cheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuan Luo</title>
-      <link>https://leonnewton.github.io/authors/yuan-luo/</link>
-      <pubDate>Fri, 04 Sep 2020 11:26:44 +0800</pubDate>
-      <guid>https://leonnewton.github.io/authors/yuan-luo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://leonnewton.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://leonnewton.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a fourth-year Ph.D. student in the School of Cyber Science and Engineering at Wuhan University. My advisor is Prof. Guojun Peng. During Sep. 2018 to Dec. 2019, I worked as a visiting student under the supervision of Prof. Daphne Yao at Virginia Tech. Also, I am fortunate to work with Prof. Long Cheng at Clemson University.&lt;/p&gt;
-&lt;p&gt;My research mainly focuses on Cyber-physical system security, IoT security (e.g., smart home), and Android application security.&lt;/p&gt;
+      <description>&lt;p&gt;Hi! 我是罗元，目前是武汉大学国家网络安全学院博士生。我的导师是彭国军教授。在2018年9月至2019年12月，我通过国家留学基金委资助（CSC）在美国弗吉尼亚理工大学（Virginia Tech）进行博士生联合培养，导师为Prof. Daphne Yao。同时，我也很高兴得到Clemson大学Prof. Long Cheng的指导。&lt;/p&gt;
+&lt;p&gt;我的研究方向为信息物理系统安全，物联网安全（特别是智能家居隐私泄漏分析），以及Android应用及系统安全。&lt;/p&gt;
 </description>
     </item>
     

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuan Luo</title>
+    <title>罗元</title>
     <link>https://leonnewton.github.io/</link>
       <atom:link href="https://leonnewton.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yuan Luo</description>
+    <description>罗元</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>Yuan © 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://leonnewton.github.io/img/icon-192.png</url>
-      <title>Yuan Luo</title>
+      <title>罗元</title>
       <link>https://leonnewton.github.io/</link>
     </image>
     
     <item>
       <title>Publications</title>
       <link>https://leonnewton.github.io/publication/</link>
-      <pubDate>Fri, 04 Sep 2020 11:26:44 +0800</pubDate>
+      <pubDate>Fri, 04 Sep 2020 14:28:28 +0800</pubDate>
       <guid>https://leonnewton.github.io/publication/</guid>
       <description></description>
     </item>
