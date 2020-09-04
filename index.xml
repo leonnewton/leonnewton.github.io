@@ -5,7 +5,7 @@
     <link>https://leonnewton.github.io/</link>
       <atom:link href="https://leonnewton.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuan Luo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Yuan © 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://leonnewton.github.io/img/icon-192.png</url>
       <title>Yuan Luo</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Posts</title>
-      <link>https://leonnewton.github.io/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://leonnewton.github.io/post/</guid>
+      <title>Publications</title>
+      <link>https://leonnewton.github.io/publication/</link>
+      <pubDate>Fri, 04 Sep 2020 11:26:44 +0800</pubDate>
+      <guid>https://leonnewton.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://leonnewton.github.io/publication/</link>
+      <title>Contact</title>
+      <link>https://leonnewton.github.io/newsection/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://leonnewton.github.io/newsection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://leonnewton.github.io/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://leonnewton.github.io/publication/</guid>
+      <guid>https://leonnewton.github.io/post/</guid>
       <description></description>
     </item>
     
